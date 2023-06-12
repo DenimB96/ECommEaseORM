@@ -21,11 +21,11 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 
 ## Installation
-
+Clone down to your local machine. Then in the CLI run 'npm i' to get all dependancies. Download mySQL, create db by using 'SOURCE db/schema.sql' in mySQL shell and run 'npm run seed'.
 
 
 ## Usage
-
+To use the package run 'npm start'
 
 
 ## Questions
